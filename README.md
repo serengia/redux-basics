@@ -3,6 +3,10 @@
 Simple project showing how to set up redux toolkit. In the project, I am utilizing
 [RTK Query](https://redux-toolkit.js.org/rtk-query/usage/migrating-to-rtk-query#implementation-using-createslice--createasyncthunk) - createAsyncThunk package from @redux/toolkit to fetch data
 
+## Live project
+
+[View live project](https://serengia-redux-basics.netlify.app/)
+
 #### Docs
 
 [Redux Toolkit Docs](https://redux-toolkit.js.org/introduction/getting-started)
